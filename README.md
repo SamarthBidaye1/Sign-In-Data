@@ -1,1 +1,1 @@
-This is Practice excersise for how backend connects fron end.
+This is Practice excersise for how backend connects front end.
